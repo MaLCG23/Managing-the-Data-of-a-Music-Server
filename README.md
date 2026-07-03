@@ -2,4 +2,4 @@
 
 Scripts for managing the data of a self-hosted music server: adding new songs to the catalog and tagging/classifying them, synced with the server over SFTP.
 
-📄 **[Full write-up here](Managing_the_Data_of_a_Music_Server.pdf)**
+[Vew More](./Managing_the_Data_of_a_Music_Server.pdf)
